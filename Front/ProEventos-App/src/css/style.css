@@ -18,7 +18,7 @@ ul {padding-left: 0;}
 section+section { margin-top: 50px; }
 
 .block-heading {
-	background-image: url("../images/titleBorder.png");
+	background-image: url("../assets/img/titleBorder.png");
 	background-repeat: repeat-x;
 	height: 20px;
 	margin: 60px 0;
@@ -45,7 +45,7 @@ section+section { margin-top: 50px; }
 	right: 30px;
 	display: block;
 	text-align: center;
-	background: url("../images/top.png") no-repeat;
+	background: url("../assets/img/top.png") no-repeat;
 }
 
 
@@ -99,7 +99,7 @@ header {
 }
 .search-box button {
 	height: 25px;
-	background: url("../images/search.png") no-repeat;
+	background: url("../assets/img/search.png") no-repeat;
 	background-color: #fff;
 	padding:10px 16px;
 	background-position: 8px;
@@ -336,11 +336,11 @@ header {
 	background-repeat: no-repeat;
 }
 .nivo-prevNav {
-	background: url("../images/large_left.png");
+	background: url("../assets/img/large_left.png");
 	margin-left: -60px;
 }
 .nivo-nextNav {
-	background: url("../images/large_right.png");
+	background: url("../assets/img/large_right.png");
 	margin-right: -60px;
 }
 .nivo-prevNav:hover {
@@ -458,7 +458,7 @@ header {
 
 .products-heading {
 	margin-top: 20px;
-	background: url("../images/titleBorder.png");
+	background: url("../assets/img/titleBorder.png");
 	background-repeat: repeat-x;
 }
 .products-heading h2 {
