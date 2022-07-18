@@ -2189,11 +2189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Antônio Carlos\\Documents\\ProEventos\\VegLife\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Antônio Carlos\\Desktop\\VegLife\\TP_WEB_Final_2\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
       "projectName": "ProEventos.Application",
-      "projectPath": "C:\\Users\\Antônio Carlos\\Documents\\ProEventos\\VegLife\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
+      "projectPath": "C:\\Users\\Antônio Carlos\\Desktop\\VegLife\\TP_WEB_Final_2\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
       "packagesPath": "C:\\Users\\Antônio Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antônio Carlos\\Documents\\ProEventos\\VegLife\\Back\\src\\ProEventos.Application\\obj\\",
+      "outputPath": "C:\\Users\\Antônio Carlos\\Desktop\\VegLife\\TP_WEB_Final_2\\Back\\src\\ProEventos.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Antônio Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2208,11 +2208,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Antônio Carlos\\Documents\\ProEventos\\VegLife\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
-              "projectPath": "C:\\Users\\Antônio Carlos\\Documents\\ProEventos\\VegLife\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
+            "C:\\Users\\Antônio Carlos\\Desktop\\VegLife\\TP_WEB_Final_2\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+              "projectPath": "C:\\Users\\Antônio Carlos\\Desktop\\VegLife\\TP_WEB_Final_2\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
             },
-            "C:\\Users\\Antônio Carlos\\Documents\\ProEventos\\VegLife\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Antônio Carlos\\Documents\\ProEventos\\VegLife\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj"
+            "C:\\Users\\Antônio Carlos\\Desktop\\VegLife\\TP_WEB_Final_2\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Antônio Carlos\\Desktop\\VegLife\\TP_WEB_Final_2\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj"
             }
           }
         }

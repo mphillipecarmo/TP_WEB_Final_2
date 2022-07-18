@@ -746,11 +746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Antônio Carlos\\Documents\\ProEventos\\VegLife\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Antônio Carlos\\Desktop\\VegLife\\TP_WEB_Final_2\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
       "projectName": "ProEventos.Domain",
-      "projectPath": "C:\\Users\\Antônio Carlos\\Documents\\ProEventos\\VegLife\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+      "projectPath": "C:\\Users\\Antônio Carlos\\Desktop\\VegLife\\TP_WEB_Final_2\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
       "packagesPath": "C:\\Users\\Antônio Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antônio Carlos\\Documents\\ProEventos\\VegLife\\Back\\src\\ProEventos.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Antônio Carlos\\Desktop\\VegLife\\TP_WEB_Final_2\\Back\\src\\ProEventos.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Antônio Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config"

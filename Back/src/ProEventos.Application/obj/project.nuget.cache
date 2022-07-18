@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4D7Fl8LjgF4M6Z9ziLJE4FTFz4oyQX2Sm49zwd6QtnLZEdK4fEbmXaSwNbT/Tw7RwYV640vf/v8bTdM+mmjl/w==",
+  "dgSpecHash": "QKGfbpwTeE3W5xju9GC0Nq5Stv4f99lt21LlWUIirj032rBATXJ6UX9tguJP/pX98qfiR/WzELd4GtZWOPhslQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Antônio Carlos\\Documents\\ProEventos\\VegLife\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
+  "projectFilePath": "C:\\Users\\Antônio Carlos\\Desktop\\VegLife\\TP_WEB_Final_2\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Antônio Carlos\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Antônio Carlos\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
